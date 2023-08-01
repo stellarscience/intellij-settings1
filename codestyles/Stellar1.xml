@@ -1,4 +1,4 @@
-<code_scheme name="Stellar" version="173">
+<code_scheme name="Stellar1" version="173">
   <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
@@ -25,7 +25,7 @@
       <emptyLine />
     </value>
   </option>
-  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="FORMATTER_TAGS_ENABLED" value="false" />
   <option name="WRAP_COMMENTS" value="true" />
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
